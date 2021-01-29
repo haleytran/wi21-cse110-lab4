@@ -10,31 +10,31 @@
 10. Line 12 will produce an error since the for loop tries to update the value of `discountedPrice`, a constant variable, in each iteration.
 11. Line 13 will produce an error since the for loop tries to update the value of `finalPrice`, a constant variable, in each iteration. 
 12. `discountPrices([100,200,300],.5)` does not return anything since there are assignment to constant variable errors.
-13. Data Types
-    A) student.name
-    B) student['Grad Year']
-    C) student.greeting
-    D) student['Favorite Teacher'].name
+13. Data Types\
+    A) student.name\
+    B) student['Grad Year']\
+    C) student.greeting\
+    D) student['Favorite Teacher'].name\
     E) student.courseLoad[0]
-14. Arithmetic
-    A) '32'
-    B) 1
-    C) 3
-    D) 3null
-    E) 4
-    F) 0
-    G) 3undefined
+14. Arithmetic\
+    A) '32'\
+    B) 1\
+    C) 3\
+    D) 3null\
+    E) 4\
+    F) 0\
+    G) 3undefined\
     H) NaN
-15. Comparison
-    A) true
-    B) false
-    C) true
-    D) false
-    E) false
+15. Comparison\
+    A) true\
+    B) false\
+    C) true\
+    D) false\
+    E) false\
     F) true
 16. == checks for equality with type conversion while === checks for equality without type conversion.
 17. 'How are you?' gets printed because the first conditional statement is false while the second conditional statement of else if is true, i.e. a number by itself as the conditional statement is true.
-19. The result will be 6,8,10. For each iteration in the for loop, we run doSomething which calculates (array[i] + 2) * 2 and push that result to newArr. 
+19. The result will be 6,8,10. For each iteration in the for loop, we run doSomething which calculates `(array[i] + 2) * 2` and push that result to `newArr`. 
 21. 1\
     4\
     3\
