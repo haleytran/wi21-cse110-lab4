@@ -34,9 +34,8 @@
     F) true
 16. == checks for equality with type conversion while === checks for equality without type conversion.
 17. 'How are you?' gets printed because the first conditional statement is false while the second conditional statement of else if is true, i.e. a number by itself as the conditional statement is true.
-
-19. The result will be 6,8,10. For each iteration in the for loop, we run doSomething which calculates `(array[i] + 2) * 2` and push that result to `newArr`. 
-21. 1\
+19\. The result will be 6,8,10. For each iteration in the for loop, we run doSomething which calculates `(array[i] + 2) * 2` and push that result to `newArr`. 
+21\. 1\
     4\
     3\
     2
