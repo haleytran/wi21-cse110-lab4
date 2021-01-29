@@ -6,7 +6,7 @@
 1. citylots.json
 2. part2.js
 3. 11.7 MB
-4. 18.60s\
+4. 18.60s
 ![5-8](NetworkTab5-8.png)
 5. Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
 6. Apache
