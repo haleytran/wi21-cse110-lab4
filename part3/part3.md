@@ -13,4 +13,4 @@
 7. Tue, 26 Jan 2021 22:14:13 GMT
 8. application/json\
 ![9](NetworkTab9.png)
-9. onclick @ (index):21
+9. fetchData()
